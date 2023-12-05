@@ -1,5 +1,5 @@
 {
   "commands": ["Clear B6", "Clear B8", "Clear C7", "Flag A7", "Flag D3", "Clear D2",
   "Flag C1", "Flag D1", "Clear E3", "Flag E8", "Clear E2", "Clear E1", "Flag F4", "Clear G4",
-  "Clear F5", "Clear F6", "Unflag D1", "Flag F7", "Flag F8", "Flag G5", "Flag G6", "Flag H2"]
+  "Clear F5", "Clear F6", "Unflag D1", "Flag F7", "Flag F8", "Flag G5", "Flag G6", "Flag H2", "end"]
 }
